@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kajindevil.github.io/Test-Website-AEO-AIEO/sitemap.xml
