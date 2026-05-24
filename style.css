@@ -37,8 +37,6 @@
     }
     .Content{
         height: 400px;
-        line-height: 325px;
-        background-color: blueviolet;
     }
     .Left{
         float: left;
@@ -92,7 +90,6 @@
     }
     .Content{
         height: 100%;
-        line-height: 400px;
         background-color: blueviolet;
     }
     .Left{
